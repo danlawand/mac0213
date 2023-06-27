@@ -1,5 +1,8 @@
 
-# O tutorial introdutório à programação em Python3 abrange os seguintes tópicos principais:
+# Tutorial introdutório à programação em Python3
+
+### Autor
+Daniel Angelo Esteves Lawand
 
 # Sumário
 
