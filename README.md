@@ -7,4 +7,4 @@
 
 ## [Resultado do Formulário de Pesquisa](https://docs.google.com/spreadsheets/d/1YqUuKC6m-x_bIaBpJCcsmSiuVdMPqoqbQiSsC736oOE/edit?usp=sharing)
 
-## [Tutorial em Python para Iniciantes](https://github.com/danlawand/mac0213/blob/master/Python%20Tutorial/Python%20Tutorial.md)
+## [Tutorial em Python para Iniciantes](https://github.com/danlawand/mac0213/blob/master/Python%20Tutorial/Tutorial%20de%20Python.md)
